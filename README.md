@@ -1,5 +1,5 @@
 ### Well hello there!
-[![Build Status](https://dev.azure.com/ShitlhRP/myApp/_apis/build/status/peckson.Spoon-Knife)](https://dev.azure.com/ShitlhRP/myApp/_build/latest?definitionId=4)
+
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
 Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
